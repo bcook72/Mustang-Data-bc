@@ -1,0 +1,13 @@
+{
+	"firstName": "Bill",
+	"lastName": "Deautrieve",
+	"PreferredName": "Bill",
+	"email": "bill@aol.com",
+	"phoneNumber": "555-555-5555",
+	"city": "Arlington",
+	"state": "TX",
+	"zip": "55555",
+	"lat": "55.55",
+	"lng": "44.44",
+	"favoriteHobby": "Mowing"
+}
